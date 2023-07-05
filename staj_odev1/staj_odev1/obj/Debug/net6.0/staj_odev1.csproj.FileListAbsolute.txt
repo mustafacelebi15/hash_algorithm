@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\staj_odev1\staj_odev1\obj\Debug\net6.0\staj_odev1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\staj_odev1\staj_odev1\obj\Debug\net6.0\staj_odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\staj_odev1\staj_odev1\obj\Debug\net6.0\staj_odev1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\staj_odev1\staj_odev1\obj\Debug\net6.0\staj_odev1.AssemblyInfo.cs
+C:\Users\User\source\repos\staj_odev1\staj_odev1\obj\Debug\net6.0\staj_odev1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\staj_odev1\staj_odev1\bin\Debug\net6.0\staj_odev1.exe
+C:\Users\User\source\repos\staj_odev1\staj_odev1\bin\Debug\net6.0\staj_odev1.deps.json
+C:\Users\User\source\repos\staj_odev1\staj_odev1\bin\Debug\net6.0\staj_odev1.runtimeconfig.json
+C:\Users\User\source\repos\staj_odev1\staj_odev1\bin\Debug\net6.0\staj_odev1.dll
+C:\Users\User\source\repos\staj_odev1\staj_odev1\bin\Debug\net6.0\staj_odev1.pdb
+C:\Users\User\source\repos\staj_odev1\staj_odev1\obj\Debug\net6.0\staj_odev1.dll
+C:\Users\User\source\repos\staj_odev1\staj_odev1\obj\Debug\net6.0\refint\staj_odev1.dll
+C:\Users\User\source\repos\staj_odev1\staj_odev1\obj\Debug\net6.0\staj_odev1.pdb
+C:\Users\User\source\repos\staj_odev1\staj_odev1\obj\Debug\net6.0\staj_odev1.genruntimeconfig.cache
+C:\Users\User\source\repos\staj_odev1\staj_odev1\obj\Debug\net6.0\ref\staj_odev1.dll
